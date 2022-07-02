@@ -1,10 +1,11 @@
-### Hola, I'm Georgios Kalfas 👋
+### Hello, and welcome to my coding world!
+#### I'm Georgios Kalfas 👋
 
 <!--
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on my dissertation for my MSc. in Business Analytics
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
