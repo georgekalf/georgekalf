@@ -3,7 +3,7 @@
 
 ## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=georgekalf&layout=compact)](https://github.com/georgekalf/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeeeKal&layout=compact)](https://github.com/GeorgeeeKal/github-readme-stats)
 
 ## 💻 Tech Stack:
 ### Programming languages: SQL
