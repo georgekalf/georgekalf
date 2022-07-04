@@ -1,5 +1,5 @@
-## Hello, and welcome to my coding world!
-#### I'm Georgios Kalfas 👋
+# Hello, and welcome to my coding world!
+## I'm Georgios Kalfas 👋
 
 ## 📊 GitHub Stats:
 
