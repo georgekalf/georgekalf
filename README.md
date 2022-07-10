@@ -20,8 +20,10 @@
 <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
 <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-<a href="https://spaCy.org/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-4d77cf.svg?logo=numpy&logoColor=white"></a>
-![spaCy](https://img.shields.io/badge/spaCy-%2309A3D5.svg?style=for-the-badge&logo=spaCy&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+<a href="https://spaCy.org/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-4d77cf.svg?logo=spacy&logoColor=white"></a>
+<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-4d77cf.svg?logo=Plotly&logoColor=white"></a>
+<a href="https://PyTorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4d77cf.svg?logo=PyTorch&logoColor=white"></a>
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 ### Libraries for R: Dplyr, Caret, Rpart, Shiny, Tidyverse, GGplot, Plotly
