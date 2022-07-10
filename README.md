@@ -31,6 +31,14 @@
 
 
 ### Libraries for R: Dplyr, Caret, Rpart, Shiny, Tidyverse, GGplot, Plotly
+<a href="https://Dplyr.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-4d77cf.svg?logo=Dplyr&logoColor=white"></a>
+<a href="https://Caret.org/"><img alt="Caret" src="https://img.shields.io/badge/Caret-4d77cf.svg?logo=Caret&logoColor=white"></a>
+<a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-4d77cf.svg?logo=Rpart&logoColor=white"></a>
+<a href="https://Shiny.org/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-4d77cf.svg?logo=Shiny&logoColor=white"></a>
+<a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-4d77cf.svg?logo=Tidyverse&logoColor=white"></a>
+<a href="https://GGplot.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-4d77cf.svg?logo=GGplot&logoColor=white"></a>
+<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-4d77cf.svg?logo=Plotly&logoColor=white"></a>
+
 
 ### Integrated Development Environments (IDEs):
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
