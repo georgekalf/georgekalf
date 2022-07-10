@@ -23,6 +23,7 @@
 <a href="https://spaCy.org/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-4d77cf.svg?logo=spacy&logoColor=white"></a>
 <a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-4d77cf.svg?logo=Plotly&logoColor=white"></a>
 <a href="https://PyTorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4d77cf.svg?logo=PyTorch&logoColor=white"></a>
+<a href="https://Seaborn.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4d77cf.svg?logo=Seaborn&logoColor=white"></a>
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 
