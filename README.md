@@ -30,7 +30,7 @@
 <a href="https://BeautifulSoup.org/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4d77cf.svg?logo=BeautifulSoup&logoColor=white"></a>
 
 
-### Libraries for R: Dplyr, Caret, Rpart, Shiny, Tidyverse, GGplot, Plotly
+### Libraries for R:
 <a href="https://Dplyr.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-4d77cf.svg?logo=Dplyr&logoColor=white"></a>
 <a href="https://Caret.org/"><img alt="Caret" src="https://img.shields.io/badge/Caret-4d77cf.svg?logo=Caret&logoColor=white"></a>
 <a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-4d77cf.svg?logo=Rpart&logoColor=white"></a>
