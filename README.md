@@ -24,8 +24,10 @@
 <a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-4d77cf.svg?logo=Plotly&logoColor=white"></a>
 <a href="https://PyTorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4d77cf.svg?logo=PyTorch&logoColor=white"></a>
 <a href="https://Selenium.org/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-4d77cf.svg?logo=Selenium&logoColor=white"></a>
+<a href="https://Matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-4d77cf.svg?logo=Matplotlib&logoColor=white"></a>
 <a href="https://Seaborn.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4d77cf.svg?logo=Seaborn&logoColor=white"></a>
-![Selenium](https://img.shields.io/badge/selenium-%43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+<a href="https://NLTK.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-4d77cf.svg?logo=NLTK&logoColor=white"></a>
+<a href="https://BeautifulSoup.org/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4d77cf.svg?logo=BeautifulSoup&logoColor=white"></a>
 
 
 ### Libraries for R: Dplyr, Caret, Rpart, Shiny, Tidyverse, GGplot, Plotly
