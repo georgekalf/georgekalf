@@ -31,12 +31,12 @@
 
 
 ### Libraries for R:
-<a href="https://Dplyr.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-4d77cf.svg?logo=Dplyr&logoColor=white"></a>
+<a href="https://Dplyr.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-ff8c00.svg?logo=Dplyr&logoColor=white"></a>
 <a href="https://Caret.org/"><img alt="Caret" src="https://img.shields.io/badge/Caret-4d77cf.svg?logo=Caret&logoColor=white"></a>
-<a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-4d77cf.svg?logo=Rpart&logoColor=white"></a>
-<a href="https://Shiny.org/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-4d77cf.svg?logo=Shiny&logoColor=white"></a>
-<a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-4d77cf.svg?logo=Tidyverse&logoColor=white"></a>
-<a href="https://GGplot.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-4d77cf.svg?logo=GGplot&logoColor=white"></a>
+<a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-C4A484.svg?logo=Rpart&logoColor=white"></a>
+<a href="https://Shiny.org/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-ADD8E6.svg?logo=Shiny&logoColor=white"></a>
+<a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-233067.svg?logo=Tidyverse&logoColor=white"></a>
+<a href="https://GGplot.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-00008B.svg?logo=GGplot&logoColor=white"></a>
 <a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
 
 
@@ -46,6 +46,8 @@
 <a href="https://Jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFA500.svg?logo=Jupyter&logoColor=white"></a>
 <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
 ### Database management systems:
+<a href="https://MySQL.org/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-006400.svg?logo=MySQL&logoColor=white"></a>
+
 ![MySQL](https://img.shields.io/badge/MySQL-%4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
