@@ -48,11 +48,7 @@
 ### Database management systems:
 <a href="https://MySQL.org/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-006400.svg?logo=MySQL&logoColor=white"></a>
 <a href="https://Postgres.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4d77cf.svg?logo=Postgres&logoColor=white"></a>
-<a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-006400.svg?logo=MongoDB&logoColor=white"></a>
-
-![MySQL](https://img.shields.io/badge/MySQL-%4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-90ee90.svg?logo=MongoDB&logoColor=white"></a>
 
 ### Other softwares:
 <a href="https://GIt.com/"><img alt="GIt" src="https://img.shields.io/badge/-GIt-FF0000?logo=GIt&logoColor=white"></a>
