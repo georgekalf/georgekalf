@@ -48,7 +48,7 @@
 ### Database management systems:
 <a href="https://MySQL.org/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-006400.svg?logo=MySQL&logoColor=white"></a>
 <a href="https://Postgres.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4d77cf.svg?logo=Postgres&logoColor=white"></a>
-<a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-90ee90.svg?logo=MongoDB&logoColor=white"></a>
+<a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f655.svg?logo=MongoDB&logoColor=white"></a>
 
 ### Other softwares:
 <a href="https://GIt.com/"><img alt="GIt" src="https://img.shields.io/badge/-GIt-FF0000?logo=GIt&logoColor=white"></a>
