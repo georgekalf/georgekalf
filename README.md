@@ -51,7 +51,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### Other softwares:
-<a href="https://GIt.com/"><img alt="GIt" src="https://img.shields.io/badge/-GIt-FE7A16?logo=GIt&logoColor=white"></a>
+<a href="https://GIt.com/"><img alt="GIt" src="https://img.shields.io/badge/-GIt-FF0000?logo=GIt&logoColor=white"></a>
 <a href="https://Notion.com/"><img alt="Notion" src="https://img.shields.io/badge/-Notion-00FF00?logo=Notion&logoColor=white"></a>
 <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
