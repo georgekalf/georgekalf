@@ -41,7 +41,6 @@
 
 
 ### Integrated Development Environments (IDEs):
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white) 
 <a href="https://Anaconda.org/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-4d77cf.svg?logo=Anaconda&logoColor=white"></a>
 <a href="https://VisualStudioCode.org/"><img alt="VisualStudioCode" src="https://img.shields.io/badge/VisualStudioCode-4d77cf.svg?logo=VisualStudioCode&logoColor=white"></a>
 <a href="https://Jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4d77cf.svg?logo=Jupyter&logoColor=white"></a>
