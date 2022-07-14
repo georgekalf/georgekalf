@@ -53,6 +53,7 @@
 ### Other softwares:
 ![GIt](https://img.shields.io/badge/Git-%F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+<a href="https://GIt.com/"><img alt="GIt" src="https://img.shields.io/badge/-GIt-FE7A16?logo=GIt&logoColor=white"></a>
 <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
 <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
 <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
