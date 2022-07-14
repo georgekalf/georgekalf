@@ -20,14 +20,14 @@
 <a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
 <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
 <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-<a href="https://spaCy.org/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-4d77cf.svg?logo=spacy&logoColor=white"></a>
-<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-4d77cf.svg?logo=Plotly&logoColor=white"></a>
-<a href="https://PyTorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-4d77cf.svg?logo=PyTorch&logoColor=white"></a>
-<a href="https://Selenium.org/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-4d77cf.svg?logo=Selenium&logoColor=white"></a>
-<a href="https://Matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-4d77cf.svg?logo=Matplotlib&logoColor=white"></a>
-<a href="https://Seaborn.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4d77cf.svg?logo=Seaborn&logoColor=white"></a>
-<a href="https://NLTK.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-4d77cf.svg?logo=NLTK&logoColor=white"></a>
-<a href="https://BeautifulSoup.org/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-4d77cf.svg?logo=BeautifulSoup&logoColor=white"></a>
+<a href="https://spaCy.org/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-ADD8E6.svg?logo=spacy&logoColor=white"></a>
+<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
+<a href="https://PyTorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FFA500.svg?logo=PyTorch&logoColor=white"></a>
+<a href="https://Selenium.org/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-006400.svg?logo=Selenium&logoColor=white"></a>
+<a href="https://Matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0000FF.svg?logo=Matplotlib&logoColor=white"></a>
+<a href="https://Seaborn.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-F0FFFF.svg?logo=Seaborn&logoColor=white"></a>
+<a href="https://NLTK.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0D98BA.svg?logo=NLTK&logoColor=white"></a>
+<a href="https://BeautifulSoup.org/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFFFFF.svg?logo=BeautifulSoup&logoColor=white"></a>
 
 
 ### Libraries for R:
@@ -37,7 +37,7 @@
 <a href="https://Shiny.org/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-4d77cf.svg?logo=Shiny&logoColor=white"></a>
 <a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-4d77cf.svg?logo=Tidyverse&logoColor=white"></a>
 <a href="https://GGplot.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-4d77cf.svg?logo=GGplot&logoColor=white"></a>
-<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-4d77cf.svg?logo=Plotly&logoColor=white"></a>
+<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
 
 
 ### Integrated Development Environments (IDEs):
