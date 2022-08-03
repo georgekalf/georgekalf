@@ -63,4 +63,3 @@
 
 - 🔭 I’m currently working on my dissertation for my MSc. in Business Analytics
 - 🌱 I’m currently learning Natural Language Programming (NLP)
-- 😄 Pronouns: He/Him
