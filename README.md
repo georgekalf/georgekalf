@@ -60,6 +60,3 @@
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-kalfas/) 
 
-
-- 🔭 I’m currently working on my dissertation for my MSc. in Business Analytics
-- 🌱 I’m currently learning Natural Language Programming (NLP)
