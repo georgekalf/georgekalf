@@ -45,7 +45,7 @@
 <a href="https://Jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-FFA500.svg?logo=Jupyter&logoColor=white"></a>
 <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Google%20Colab-black.svg?logo=google%20colab&logoColor=ffd936"></a>
 ### Database management systems:
-<a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-006400.svg?logo=MySQL&logoColor=white"></a>
+<a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=MySQL&logoColor=white"></a>
 <a href="https://Postgres.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4d77cf.svg?logo=Postgres&logoColor=white"></a>
 <a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f655.svg?logo=MongoDB&logoColor=white"></a>
 
