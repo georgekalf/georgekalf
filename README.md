@@ -30,7 +30,7 @@
 
 
 ### Libraries for R:
-<a href="https://Dplyr.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-ff8c00.svg?logo=Dplyr&logoColor=white"></a>
+<a href="[https://Dplyr.org/](https://dplyr.tidyverse.org/)"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-ff8c00.svg?logo=Dplyr&logoColor=white"></a>
 <a href="https://Caret.org/"><img alt="Caret" src="https://img.shields.io/badge/Caret-4d77cf.svg?logo=Caret&logoColor=white"></a>
 <a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-C4A484.svg?logo=Rpart&logoColor=white"></a>
 <a href="https://Shiny.org/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-ADD8E6.svg?logo=Shiny&logoColor=white"></a>
