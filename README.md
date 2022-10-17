@@ -35,7 +35,7 @@
 <a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-C4A484.svg?logo=Rpart&logoColor=white"></a>
 <a href="https://Shiny.org/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-ADD8E6.svg?logo=Shiny&logoColor=white"></a>
 <a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-233067.svg?logo=Tidyverse&logoColor=white"></a>
-<a href="https://GGplot.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-00008B.svg?logo=GGplot&logoColor=white"></a>
+<a href="https://ggplot2.tidyverse.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-00008B.svg?logo=GGplot&logoColor=white"></a>
 <a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
 
 
