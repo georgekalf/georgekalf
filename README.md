@@ -11,7 +11,6 @@
 <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
-
 ### Libraries for Python:
 <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4d77cf.svg?logo=numpy&logoColor=white"></a>
 <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -28,7 +27,6 @@
 <a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0D98BA.svg?logo=NLTK&logoColor=white"></a>
 <a href="https://BeautifulSoup.org/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFFFFF.svg?logo=BeautifulSoup&logoColor=white"></a>
 
-
 ### Libraries for R:
 <a href="https://dplyr.tidyverse.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-ff8c00.svg?logo=Dplyr&logoColor=white"></a>
 <a href="https://Caret.org/"><img alt="Caret" src="https://img.shields.io/badge/Caret-4d77cf.svg?logo=Caret&logoColor=white"></a>
@@ -37,7 +35,6 @@
 <a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-233067.svg?logo=Tidyverse&logoColor=white"></a>
 <a href="https://ggplot2.tidyverse.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-00008B.svg?logo=GGplot&logoColor=white"></a>
 <a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
-
 
 ### Integrated Development Environments (IDEs):
 <a href="https://Anaconda.org/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-006400.svg?logo=Anaconda&logoColor=white"></a>
@@ -57,7 +54,5 @@
 <a href="https://www.google.com/intl/el_GR/chrome/"><img alt="Google Chrome" src="https://img.shields.io/badge/Google%20Chrome-blue.svg?logo=google%20chrome&logoColor=red"></a>
 <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 
-
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-kalfas/) 
-
