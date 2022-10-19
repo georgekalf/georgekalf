@@ -7,7 +7,7 @@
 
 ## 💻 Tech Stack:
 ### Programming languages: 
-<a href="https://github.com/search?q=user%3Apapaemman+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
 <a href="https://github.com/search?q=user%3Apapaemman+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
