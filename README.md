@@ -2,11 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/georgekalf/georgekalf/master/resources/banner.png" alt="Hello world">
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/georgekalf/count.svg" />
-</p>
-
 
 <details>
     <summary><strong> 📊 My GitHub Stats</strong></summary>
