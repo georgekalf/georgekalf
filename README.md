@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/georgekalf/georgekalf/master/resources/banner.png" alt="Hello world">
+<img src="https://www.shutterstock.com/image-illustration/hello-world-python-coding-illustration-programming-1965493303" alt="Hello world">
 
 
 <details>
