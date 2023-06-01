@@ -1,8 +1,7 @@
 # Hey there :wave:
 
 <img src="https://www.shutterstock.com/image-illustration/hello-world-python-coding-illustration-programming-1965493303" alt="Hello world">
-
-![alt text]([http://url/to/img.png](https://www.shutterstock.com/image-illustration/hello-world-python-coding-illustration-programming-1965493303))
+[![Hello world!](https://www.shutterstock.com/image-illustration/hello-world-python-coding-illustration-programming-1965493303)](https://www.linkedin.com/in/georgios-kalfas/) 
 
 <details>
     <summary><strong> 📊 My GitHub Stats</strong></summary>
