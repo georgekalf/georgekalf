@@ -1,7 +1,7 @@
 # Hey there :wave:
 
 <p align="center">
-  <img src="hello-world.jpg" width="900" height="500">
+  <img src="hello-world.jpg" width="700" height="500">
 </p>
 
 
