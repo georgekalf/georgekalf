@@ -11,6 +11,7 @@
       </p>
 </details>
 
+
 ## 💻 Tech Stack:
 ### Programming languages: 
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
