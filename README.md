@@ -1,10 +1,5 @@
 # Hey there :wave:
 
-<p align="center">
-  <img src="hello-world.png" width="700" height="450">
-</p>
-
-
 <details>
     <summary><strong> 📊 My GitHub Stats</strong></summary>
       <p align="center">
