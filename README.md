@@ -30,7 +30,7 @@
 <a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0000FF.svg?logo=Matplotlib&logoColor=white"></a>
 <a href="https://seaborn.pydata.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-F0FFFF.svg?logo=Seaborn&logoColor=white"></a>
 <a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0D98BA.svg?logo=NLTK&logoColor=white"></a>
-<a href="[https://BeautifulSoup.org/](https://pypi.org/project/beautifulsoup4/)"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFFFFF.svg?logo=BeautifulSoup&logoColor=white"></a>
+<a href="https://pypi.org/project/beautifulsoup4/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFFFFF.svg?logo=BeautifulSoup&logoColor=white"></a>
 
 ### Libraries for R:
 <a href="https://dplyr.tidyverse.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-ff8c00.svg?logo=Dplyr&logoColor=white"></a>
