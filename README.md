@@ -61,3 +61,7 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-kalfas/) 
+
+<img src="[https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif](https://github.com/georgekalf/georgekalf/blob/main/giphy.gif
+)https://github.com/georgekalf/georgekalf/blob/main/giphy.gif" align="right" width="250" /></a>
+
