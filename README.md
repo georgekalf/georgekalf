@@ -64,5 +64,5 @@
 
 
 <p align="right"> 
-<img src="https://giphy.com/embed/RbDKaczqWovIugyJmW" align="right" width="480" height="270" class="giphy-embed" allowFullScreen> <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">via GIPHY</a></p> /></a>
+<img class="giphy-embed" allowFullScreen> <a href="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" align="right" width="480" height="270" </a>
 </p>
