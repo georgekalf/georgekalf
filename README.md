@@ -61,3 +61,8 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-kalfas/) 
+
+
+<p align="right"> 
+<img src="[https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)" align="right" width="250" /></a>
+</p>
