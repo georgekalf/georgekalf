@@ -16,31 +16,6 @@
 <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3Apapaemman+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
-### Libraries for Python:
-<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-4d77cf.svg?logo=numpy&logoColor=white"></a>
-<a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-<a href="https://www.scipy.org/"><img alt="ScipyPy" src="https://img.shields.io/badge/SciPy-blue.svg?logo=SciPy&logoColor=white"></a>
-<a href="https://scikit-learn.org/stable/index.html"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikitlearn-3499cd.svg?logo=scikit-learn&logoColor=fa9b3b"></a>
-<a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
-<a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
-<a href="https://spaCy.org/"><img alt="spaCy" src="https://img.shields.io/badge/spaCy-ADD8E6.svg?logo=spacy&logoColor=white"></a>
-<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
-<a href="https://PyTorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-FFA500.svg?logo=PyTorch&logoColor=white"></a>
-<a href="https://Selenium.org/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-006400.svg?logo=Selenium&logoColor=white"></a>
-<a href="https://matplotlib.org/"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-0000FF.svg?logo=Matplotlib&logoColor=white"></a>
-<a href="https://seaborn.pydata.org/"><img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-F0FFFF.svg?logo=Seaborn&logoColor=white"></a>
-<a href="https://www.nltk.org/"><img alt="NLTK" src="https://img.shields.io/badge/NLTK-0D98BA.svg?logo=NLTK&logoColor=white"></a>
-<a href="https://pypi.org/project/beautifulsoup4/"><img alt="BeautifulSoup" src="https://img.shields.io/badge/BeautifulSoup-FFFFFF.svg?logo=BeautifulSoup&logoColor=white"></a>
-
-### Libraries for R:
-<a href="https://dplyr.tidyverse.org/"><img alt="Dplyr" src="https://img.shields.io/badge/Dplyr-ff8c00.svg?logo=Dplyr&logoColor=white"></a>
-<a href="https://Caret.org/"><img alt="Caret" src="https://img.shields.io/badge/Caret-4d77cf.svg?logo=Caret&logoColor=white"></a>
-<a href="https://Rpart.org/"><img alt="Rpart" src="https://img.shields.io/badge/Rpart-C4A484.svg?logo=Rpart&logoColor=white"></a>
-<a href="https://shiny.rstudio.com/"><img alt="Shiny" src="https://img.shields.io/badge/Shiny-ADD8E6.svg?logo=Shiny&logoColor=white"></a>
-<a href="https://Tidyverse.org/"><img alt="Tidyverse" src="https://img.shields.io/badge/Tidyverse-233067.svg?logo=Tidyverse&logoColor=white"></a>
-<a href="https://ggplot2.tidyverse.org/"><img alt="GGplot" src="https://img.shields.io/badge/GGplot-00008B.svg?logo=GGplot&logoColor=white"></a>
-<a href="https://Plotly.org/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-40E0D0.svg?logo=Plotly&logoColor=white"></a>
-
 ### Database management systems:
 <a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=MySQL&logoColor=white"></a>
 <a href="https://Postgres.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4d77cf.svg?logo=Postgres&logoColor=white"></a>
