@@ -60,6 +60,7 @@
 <a href="https://www.google.com/sheets/about/"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
 
 ## 🌐 Connect with me:
+&nbsp; <a href="https://www.linkedin.com/in/georgios-kalfas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-kalfas/) 
 
 <img src="https://github.com/georgekalf/georgekalf/blob/main/giphy.gif" align="right" width="250" /></a>
