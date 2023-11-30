@@ -47,7 +47,7 @@
 <a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f655.svg?logo=MongoDB&logoColor=white"></a>
 
 ## 🌐 Connect with me:
-&nbsp; <a href="https://www.linkedin.com/in/georgios-kalfas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/georgios-kalfas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="70" /></a>
 
-<img src="https://github.com/georgekalf/georgekalf/blob/main/giphy.gif" align="right" width="250" /></a>
+<img src="https://github.com/georgekalf/georgekalf/blob/main/giphy.gif" align="right" width="450" /></a>
 
