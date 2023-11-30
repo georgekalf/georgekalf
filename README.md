@@ -61,7 +61,3 @@
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/georgios-kalfas/) 
-
-<img src="[https://media.giphy.com/media/fzyOvQ7jJplVHhz895/giphy.gif](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4779q9u6yvb98v6suit1y98vemzklcle9aog9sop67&ep=v1_gifs_search&rid=giphy.gif&ct=g
-)https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e4779q9u6yvb98v6suit1y98vemzklcle9aog9sop67&ep=v1_gifs_search&rid=giphy.gif&ct=g
-" align="right" width="250" /></a>
