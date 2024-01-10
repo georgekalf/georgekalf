@@ -23,7 +23,7 @@
 <a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f655.svg?logo=MongoDB&logoColor=white"></a>
 
 ### Reporting tools:
-<a href="https://www.microsoft.com/en-gb/power-platform/products/power-bi/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-#FFFF00.svg?logo=PowerBI&logoColor=white"></a>
+<a href="https://www.microsoft.com/en-gb/power-platform/products/power-bi/"><img alt="PowerBI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></a>
 
 ## 🌐 Connect with me:
 &nbsp; <a href="https://www.linkedin.com/in/georgios-kalfas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="70" /></a>
