@@ -11,6 +11,7 @@
 
 
 ## 💻 Tech Stack:
+
 ### Programming languages: 
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3476ab.svg?logo=python&logoColor=ffd542"></a>
 <a href="https://www.r-project.org/"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
@@ -20,6 +21,9 @@
 <a href="https://mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-blue.svg?logo=MySQL&logoColor=white"></a>
 <a href="https://Postgres.org/"><img alt="Postgres" src="https://img.shields.io/badge/Postgres-4d77cf.svg?logo=Postgres&logoColor=white"></a>
 <a href="https://MongoDB.org/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-1f655.svg?logo=MongoDB&logoColor=white"></a>
+
+### Reporting tools:
+<a href="https://www.microsoft.com/en-gb/power-platform/products/power-bi/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-1f655.svg?logo=PowerBI&logoColor=white"></a>
 
 ## 🌐 Connect with me:
 &nbsp; <a href="https://www.linkedin.com/in/georgios-kalfas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="70" /></a>
