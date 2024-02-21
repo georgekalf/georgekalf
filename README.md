@@ -11,7 +11,7 @@
 </details>
 
 <details>
-    <summary><strong> 📊 Github Profile Summary Card</strong></summary>
+    <summary><strong> 📊 GitHub Profile Summary Card</strong></summary>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgekalf&theme=vue"/>
 </details>    
 
