@@ -12,7 +12,7 @@
 
 <details>
     <summary><strong> 📊 Github Profile Summary Card</strong></summary>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgekalf&theme=red"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgekalf&theme=vue"/>
 </details>    
 
 ## 💻 Tech Stack:
