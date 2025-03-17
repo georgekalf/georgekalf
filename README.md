@@ -5,7 +5,8 @@
     <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=georgekalf&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="George's Github Stats"/>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekalf&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=True"/>
-        <img src="https://github-profile-trophy.vercel.app/?username=georgekalf&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="George's Github Trophy" />
+        <!-- Fallback for GitHub Trophy -->
+        <!-- <img src="https://github-profile-trophy.vercel.app/?username=georgekalf&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=True" alt="George's Github Trophy" /> -->
     </div>
 </details>
 
@@ -31,9 +32,7 @@
 ### Reporting tools:
 <a href="https://www.microsoft.com/en-gb/power-platform/products/power-bi/"><img alt="PowerBI" src="https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black"></a>
 
-
 ## 🌐 Connect with me:
 &nbsp; <a href="https://www.linkedin.com/in/georgios-kalfas/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="70" /></a>
 
 <img src="https://github.com/georgekalf/georgekalf/blob/main/giphy.gif" align="right" width="450" /></a>
-
