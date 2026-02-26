@@ -1,20 +1,24 @@
 # Hey there :wave:
 
 <details>
-    <summary><strong> 📊 GitHub Stats</strong></summary>
-    <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=georgekalf&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=true" alt="George's Github Stats"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekalf&hide_langs_below=18&line_height=27&layout=compact&title_color=29315F&text_color=29315F&hide_border=true"/>
-        <img src="https://github-profile-trophy.vercel.app/?username=georgekalf&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=true" alt="George's Github Trophy" />
-    </div>
+<summary><strong>📊 GitHub Stats</strong></summary>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=georgekalf&show_icons=true&count_private=true&include_all_commits=true&line_height=21&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=georgekalf&layout=compact&title_color=29315F&text_color=29315F&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=georgekalf&column=7&title_color=29315F&text_color=29315F&icon_color=686466&hide_border=true" />
+</p>
+
 </details>
 
 <details>
-    <summary><strong> 📊 GitHub Profile Summary</strong></summary>
-    <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgekalf&theme=vue"/>
-    </div>    
-</details>    
+<summary><strong>📊 GitHub Profile Summary</strong></summary>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=georgekalf&theme=vue" />
+</p>
+
+</details>
 
 ## 💻 Tech Stack:
 
